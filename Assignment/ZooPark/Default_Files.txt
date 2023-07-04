@@ -1,0 +1,57 @@
+Áreas Default
+
+Tundra_[3] Tundra 184.76 2 Oceano_[2] Floresta_Tropical_[3]
+Oceano_[2] Oceano 431.89 2 Floresta_[2] Tundra_[3]
+Floresta_[2] Floresta 875.1 3 Oceano_[2] Deserto_[2] Oceano_[3]
+Oceano_[3] Oceano 834.41 2 Floresta_[2] Tundra_[2]
+Tundra_[2] Tundra 89.8 2 Oceano_[3] Oceano_[1]
+Oceano_[1] Oceano 269.52 2 Tundra_[2] Floresta_[1]
+Floresta_[1] Floresta 922.06 2 Oceano_[1] Tundra_[1]
+Tundra_[1] Tundra 946.34 2 Floresta_[1] Savana_[2]
+Savana_[2] Savana 730.16 2 Tundra_[1] Floresta_[3]
+Floresta_[3] Floresta 872.14 2 Savana_[2] Savana_[3]
+Savana_[3] Savana 17.41 3 Floresta_[3] Deserto_[3] Floresta_Tropical_[1]
+Floresta_Tropical_[1] Floresta_Tropical 561.74 2 Savana_[3] Savana_[1]
+Savana_[1] Savana 544.32 2 Floresta_Tropical_[1] Floresta_Tropical_[2]
+Floresta_Tropical_[2] Floresta_Tropical 310.18 2 Savana_[1] Deserto_[1]
+Deserto_[1] Deserto 725.5 2 Floresta_Tropical_[2] Floresta_Tropical_[3]
+Floresta_Tropical_[3] Floresta_Tropical 385.24 2 Deserto_[1] Tundra_[3]
+Deserto_[2] Deserto 843.6 1 Floresta_[2]
+Deserto_[3] Deserto 803.1 1 Savana_[3]
+
+
+Espécies Default
+
+Camelo Deserto
+Escorpião Deserto Savana
+Cascavel Deserto Floresta
+Elefante Savana
+Girafa Savana
+Leão Savana
+Golfinho Oceano
+Manatim Oceano
+Lontra Oceano
+Urso_Polar Tundra
+Pinguim Tundra
+Rena Tundra
+Chimpanzé Floresta_Tropical
+Tucano Savana Floresta_Tropical
+Perguiça Floresta_Tropical
+Raposa Floresta
+Porco-espinho Floresta
+Guaxinim Floresta
+
+
+Animais Default
+
+Raposa Lexi 60 Floresta_[1] 2 Lyly Bob
+Leão Leãozinho 9 Savana_[3] 1 Leandro
+Raposa Lyly 70 Floresta_[1] 0 Lexi Bunny
+Raposa Bunny 55 Floresta_[1] 1 Lyly
+Tucano TucTuc 2 Savana_[3] 0
+Raposa Foxxy 23 Floresta_[2] 0
+Raposa Ara 2 Floresta_[2] 1 Rena
+Raposa Rena 0.4 Floresta_[2] 0 Ara
+Raposa Bob 12 Floresta_[1] 0 Lexi
+Camelo Camelot 19 Deserto_[1] 0
+Leão Leandro 1.8 Savana_[3] 0 Leãozinho
